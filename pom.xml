@@ -5,14 +5,17 @@
         <artifactId>apache</artifactId>
         <version>4</version>
     </parent>
+    <!--
+      This is a parent POM that is meant to be used by all MyFaces (sub) projects.
+      It contains information that is common to all MyFaces artifacts.
+    -->
     <groupId>org.apache.myfaces.maven</groupId>
     <artifactId>myfaces-master</artifactId>
     <packaging>pom</packaging>
-    <name>Master POM</name>
+    <name>MyFaces Master POM</name>
     <version>8-SNAPSHOT</version>
     <description>
-      This is a parent POM that is meant to be used by all MyFaces (sub) projects.
-      It contains information that is common to all MyFaces artifacts.
+       The MyFaces project is home of the first free open source JavaServer Faces implementation as well as some useful JSF component libraries and other convenient JSF stuff.
     </description>
     <url>http://myfaces.apache.org</url>
     <issueManagement>
@@ -493,6 +496,10 @@
         <defaultGoal>install</defaultGoal>
         <plugins>
             <plugin>
+                <!--
+                All artifacts that are JSF 1.1 compatible should be compilable with Java 1.3, so this is the default.
+                JSF 1.2 or special Java 1.5 related artifacts must override these settings. 
+                -->
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
                     <source>1.3</source>
