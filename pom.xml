@@ -17,7 +17,7 @@
     <url>http://myfaces.apache.org</url>
     <issueManagement>
         <system>jira</system>
-        <url>http://issues.apache.org/jira/secure/BrowseProject.jspa?id=10600</url>
+        <url>https://issues.apache.org/jira/secure/BrowseProjects.jspa</url>
     </issueManagement>
     <ciManagement>
         <system>continuum</system>
@@ -485,9 +485,9 @@
         </contributor>        
     </contributors>
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/myfaces/maven/trunk/master-pom</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/myfaces/maven/trunk/master-pom</developerConnection>
-        <url>http://svn.apache.org/viewcvs.cgi/myfaces/maven/trunk/master-pom</url>
+        <connection>scm:svn:http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</connection>
+        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</developerConnection>
+        <url>http://svn.apache.org/viewcvs.cgi/myfaces/myfaces-master-pom/trunk</url>
     </scm>
     <build>
         <extensions>
