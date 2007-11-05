@@ -61,8 +61,9 @@ under the License.
             <subscribe>users-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>users-unsubscribe@myfaces.apache.org</unsubscribe>
             <post>do not post to users@myfaces.apache.org unless subscribed</post>
-            <archive>http://mail-archives.apache.org/mod_mbox/myfaces-users</archive>
+            <archive>http://users.myfaces.markmail.org/</archive>
             <otherArchives>
+                <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-users</otherArchive>
                 <otherArchive>http://www.mail-archive.com/users@myfaces.apache.org/</otherArchive>
                 <otherArchive>http://www.nabble.com/MyFaces---Users-f181.html</otherArchive>
             </otherArchives>
@@ -72,10 +73,21 @@ under the License.
             <subscribe>dev-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>dev-unsubscribe@myfaces.apache.org</unsubscribe>
             <post>do not post to dev@myfaces.apache.org unless subscribed</post>
-            <archive>http://mail-archives.apache.org/mod_mbox/myfaces-dev</archive>
+            <archive>http://dev.myfaces.markmail.org/</archive>
             <otherArchives>
+                <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-dev</otherArchive>
                 <otherArchive>http://www.mail-archive.com/dev@myfaces.apache.org/</otherArchive>
                 <otherArchive>http://www.nabble.com/My-Faces---Dev-f182.html</otherArchive>
+            </otherArchives>
+        </mailingList>
+        <mailingList>
+            <name>Myfaces Announcements List</name>
+            <subscribe>announce-subscribe@myfaces.apache.org</subscribe>
+            <unsubscribe>announce-unsubscribe@myfaces.apache.org</unsubscribe>
+            <post>do not post</post>
+            <archive>http://announce.myfaces.markmail.org/</archive>
+            <otherArchives>
+                <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-announce</otherArchive>
             </otherArchives>
         </mailingList>
         <mailingList>
@@ -83,21 +95,26 @@ under the License.
             <subscribe>commits-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>commits-unsubscribe@myfaces.apache.org</unsubscribe>
             <post>do not post</post>
-            <archive>http://mail-archives.apache.org/mod_mbox/myfaces-commits</archive>
+            <archive>http://commits.myfaces.markmail.org/</archive>
+            <otherArchives>
+                <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-commits</otherArchive>
+            </otherArchives>
+        </mailingList>
+        <mailingList>
+            <name>Myfaces Private (PMC) List</name>
+            <subscribe>only for MyFaces PMC members</subscribe>
+            <unsubscribe>private-unsubscribe@myfaces.apache.org</unsubscribe>
+            <post>do not post unless you need to contact PMC on issues not meant for public</post>
         </mailingList>
         <mailingList>
             <name>Myfaces Notifications List</name>
             <subscribe>notifications-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>notifications-unsubscribe@myfaces.apache.org</unsubscribe>
             <post>do not post</post>
-            <archive>http://mail-archives.apache.org/mod_mbox/myfaces-notifications</archive>
-        </mailingList>
-        <mailingList>
-            <name>Myfaces Announcements List</name>
-            <subscribe>announce-subscribe@myfaces.apache.org</subscribe>
-            <unsubscribe>announce-unsubscribe@myfaces.apache.org</unsubscribe>
-            <post>do not post</post>
-            <archive>http://mail-archives.apache.org/mod_mbox/myfaces-announce</archive>
+            <archive>http://notifications.myfaces.markmail.org/</archive>
+            <otherArchives>
+                <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-notifications</otherArchive>
+            </otherArchives>
         </mailingList>
     </mailingLists>
     <developers>
