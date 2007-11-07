@@ -12,7 +12,7 @@
     <groupId>org.apache.myfaces</groupId>
     <artifactId>myfaces</artifactId>
     <packaging>pom</packaging>
-    <name>MyFaces Master POM</name>
+    <name>Apache MyFaces Master POM</name>
     <version>3-SNAPSHOT</version>
     <description>
        The MyFaces project is home of the first free open source JavaServer Faces implementation as well as some useful JSF component libraries and other convenient JSF stuff.
