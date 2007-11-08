@@ -526,6 +526,21 @@
                       <target>1.3</target>
                   </configuration>
               </plugin>
+              <plugin>
+                <!--
+                Starting with version 2.1, the maven-jar-plugin no longer creates the Specification and 
+                Implementation details in the manifest by default. If you want them you have to say so 
+                explicitly in your plugin configuration.
+                -->
+                <artifactId>maven-jar-plugin</artifactId>
+                <configuration>
+                  <archive>
+                    <manifest>
+                      <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+                    </manifest>
+                  </archive>
+                </configuration>
+              </plugin>
           </plugins>
         </pluginManagement>
     </build>
