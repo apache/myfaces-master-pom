@@ -13,7 +13,7 @@
     <artifactId>myfaces</artifactId>
     <packaging>pom</packaging>
     <name>Apache MyFaces Master POM</name>
-    <version>3-SNAPSHOT</version>
+    <version>3</version>
     <description>
        The MyFaces project is home of the first free open source JavaServer Faces implementation as well as some useful JSF component libraries and other convenient JSF stuff.
     </description>
@@ -506,9 +506,9 @@
     </contributors>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</developerConnection>
-        <url>http://svn.apache.org/viewcvs.cgi/myfaces/myfaces-master-pom/trunk</url>
+        <connection>scm:svn:http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/tags/myfaces-3</connection>
+        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/tags/myfaces-3</developerConnection>
+        <url>http://svn.apache.org/viewcvs.cgi/myfaces/myfaces-master-pom/tags/myfaces-3</url>
     </scm>
 
     <build>
