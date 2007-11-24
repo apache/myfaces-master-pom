@@ -449,6 +449,13 @@
             </roles>
             <timezone>-5</timezone>
         </developer>
+          <developer>
+            <id>lu4242</id>
+            <name>Leonardo Uribe</name>
+            <email>lu4242@apache.org</email>
+            <organization />
+            <timezone>-5</timezone>
+        </developer>
     </developers>
     <contributors>
         <contributor>
