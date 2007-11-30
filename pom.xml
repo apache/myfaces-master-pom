@@ -459,7 +459,7 @@
         <developer>
             <id>awiner</id>
             <name>Adam Winer</name>
-            <organization>Google</organization>
+            <organization />
             <email>awiner@apache.org</email>
             <roles>
               <role>Developer</role>
