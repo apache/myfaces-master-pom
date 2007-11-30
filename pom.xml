@@ -449,12 +449,52 @@
             </roles>
             <timezone>-5</timezone>
         </developer>
-          <developer>
+        <developer>
             <id>lu4242</id>
             <name>Leonardo Uribe</name>
             <email>lu4242@apache.org</email>
             <organization />
             <timezone>-5</timezone>
+        </developer>
+        <developer>
+            <id>awiner</id>
+            <name>Adam Winer</name>
+            <organization>Google</organization>
+            <email>awiner@apache.org</email>
+            <roles>
+              <role>Developer</role>
+            </roles>
+            <timezone>-8</timezone>
+        </developer>
+        <developer>
+            <id>gcrawford</id>
+            <name>Gabrielle Crawford</name>
+            <organization>Oracle Corp</organization>
+            <email>gcrawford@apache.org</email>
+            <roles>
+              <role>Developer</role>
+            </roles>
+            <timezone>-8</timezone>
+        </developer>
+        <developer>
+            <id>jwaldman</id>
+            <name>Jeanne Waldman</name>
+            <organization>Oracle Corp</organization>
+            <email>jwaldman@apache.org</email>
+            <roles>
+              <role>Developer</role>
+            </roles>
+            <timezone>-8</timezone>
+        </developer>
+        <developer>
+            <id>mcooper</id>
+            <name>Matt Cooper</name>
+            <organization>Oracle Corp</organization>
+            <email>mcooper@apache.org</email>
+                <roles>
+                  <role>Developer</role>
+                </roles>
+                 <timezone>-7</timezone>
         </developer>
     </developers>
     <contributors>
