@@ -98,6 +98,15 @@
     </mailingLists>
     <developers>
         <developer>
+            <id>arobinson74</id>
+            <name>Andrew Robinson</name>
+            <email>arobinson74@apache.org</email>
+            <roles>
+              <role>committer</role>
+            </roles>
+            <timezone>-7</timezone>
+        </developer>
+        <developer>
             <id>idus</id>
             <name>Arvid Hülsebus</name>
             <email>idus@apache.org</email>
