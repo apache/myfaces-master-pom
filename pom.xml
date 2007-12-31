@@ -15,7 +15,9 @@
     <name>Apache MyFaces Master POM</name>
     <version>5-SNAPSHOT</version>
     <description>
-       The MyFaces project is home of the first free open source JavaServer Faces implementation as well as some useful JSF component libraries and other convenient JSF stuff.
+       The MyFaces project is home of the first free open source JavaServer Faces
+       implementation as well as some useful JSF component libraries and other
+       convenient JSF stuff.
     </description>
     <url>http://myfaces.apache.org</url>
     <issueManagement>
@@ -373,13 +375,13 @@
             <organizationUrl>http://www.ops.co.at</organizationUrl>
             <timezone>+1</timezone>
         </developer>
-		    <developer>
+        <developer>
             <id>cagatay</id>
             <name>Cagatay Civici</name>
             <email>cagatay@apache.org</email>
             <organization />
             <organizationUrl />
-			 <roles>
+            <roles>
                 <role>PMC</role>
             </roles>
             <timezone>+2</timezone>
@@ -411,7 +413,7 @@
             </roles>
             <timezone>+1</timezone>
         </developer>
-	      <developer>
+        <developer>
             <id>ckormos</id>
             <name>Catalin Kormos</name>
             <email>ckormos@apache.org</email>
@@ -425,7 +427,7 @@
             <organization />
             <timezone>-7</timezone>
         </developer>
-		    <developer>
+        <developer>
             <id>lfrohman</id>
             <name>Lance Frohman</name>
             <email>lfrohman@apache.org</email>
@@ -608,7 +610,7 @@
             </plugin>
             <plugin>
                 <artifactId>maven-pmd-plugin</artifactId>
-                <version>2.0</version>
+                <version>2.2</version>
                 <configuration>
                     <rulesets>
                         <ruleset>/rulesets/basic.xml</ruleset>
@@ -622,7 +624,7 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>findbugs-maven-plugin</artifactId>
-                <version>1.0-beta-1</version>
+                <version>1.1.1</version>
                 <configuration>
                     <threshold>Low</threshold>
                 </configuration>
@@ -630,15 +632,16 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>jdepend-maven-plugin</artifactId>
+                <version>2.0-beta-1</version>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
+                <version>2.1</version>
                 <configuration>
                     <configLocation>http://svn.apache.org/repos/asf/myfaces/maven/trunk/build-tools/src/main/resources/config/myfaces-checks.xml</configLocation>
                     <headerLocation>http://svn.apache.org/repos/asf/myfaces/maven/trunk/build-tools/src/main/resources/config/myfaces-header.txt</headerLocation>
                 </configuration>
-                <version>2.1</version>
             </plugin>
       </plugins>
     </reporting>
@@ -672,7 +675,7 @@
             <groupId>org.apache.maven.plugins</groupId>
 
             <artifactId>maven-gpg-plugin</artifactId>
-            <version>1.0-alpha-3</version>
+            <version>1.0-alpha-4</version>
             <executions>
               <execution>
                 <id>sign-artifacts</id>
