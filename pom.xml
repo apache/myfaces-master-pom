@@ -12,7 +12,7 @@
     <groupId>org.apache.myfaces</groupId>
     <artifactId>myfaces</artifactId>
     <packaging>pom</packaging>
-    <name>Apache MyFaces Master POM</name>
+    <name>Apache MyFaces</name>
     <version>6-SNAPSHOT</version>
     <description>
        The MyFaces project is home of the first free open source JavaServer Faces
