@@ -425,6 +425,14 @@
             <timezone>+1</timezone>
         </developer>
         <developer>
+            <id>bhuemer</id>
+            <name>Bernhard Huemer</name>
+            <email>bhuemer@apache.org</email>
+            <organization>IRIAN.at, Austria</organization>
+            <organizationUrl>http://www.irian.at/</organizationUrl>
+            <timezone>+1</timezone>
+        </developer>
+        <developer>
             <id>ckormos</id>
             <name>Catalin Kormos</name>
             <email>ckormos@apache.org</email>
