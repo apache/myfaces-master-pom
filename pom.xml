@@ -205,6 +205,19 @@
             <timezone>+1</timezone>
         </developer>
         <developer>
+            <id>sobryan</id>
+            <name>Scott O'Bryan</name>
+            <email>sobryan@apache.org</email>
+            <organization>Oracle, U.S.A</organization>
+            <organizationUrl>http://www.oracle.com</organizationUrl>
+            <roles>
+                <role>Portlet Bridge Project Lead</role>
+                <role>JSR-301 JSF Portlet Bridge EG Member</role>
+                <role>Portlet Guru</role>
+            </roles>
+            <timezome>-7</timezone>
+        </developer>
+        <developer>
             <id>schof</id>
             <name>Sean Schofield</name>
             <email>schof@apache.org</email>
