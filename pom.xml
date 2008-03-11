@@ -388,6 +388,9 @@
             <email>imario@apache.org</email>
             <organization>OPS EDV GmbH</organization>
             <organizationUrl>http://www.ops.co.at</organizationUrl>
+            <roles>
+                <role>PMC</role>
+            </roles>
             <timezone>+1</timezone>
         </developer>
         <developer>
