@@ -103,8 +103,10 @@
             <id>arobinson74</id>
             <name>Andrew Robinson</name>
             <email>arobinson74@apache.org</email>
+            <organization>Oracle, Colorado</organization>
+            <organizationUrl>http://www.oracle.com/</organizationUrl>
             <roles>
-              <role>committer</role>
+              <role>PMC</role>
             </roles>
             <timezone>-7</timezone>
         </developer>
