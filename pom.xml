@@ -455,6 +455,7 @@
             <name>Catalin Kormos</name>
             <email>ckormos@apache.org</email>
             <organization>CODEBEAT S.R.L, Romania</organization>
+            <organizationUrl>http://www.codebeat.ro/</organizationUrl>
             <timezone>+2</timezone>
         </developer>
         <developer>
@@ -543,6 +544,22 @@
                   <role>Developer</role>
                 </roles>
                  <timezone>-7</timezone>
+        </developer>
+        <developer>
+            <id>efastl</id>
+            <name>Ernst Fastl</name>
+            <email>efastl@apache.org</email>
+            <organization>IRIAN.at, Austria</organization>
+            <organizationUrl>http://www.irian.at/</organizationUrl>
+            <timezone>+1</timezone>
+        </developer>
+        <developer>
+            <id>ctoth</id>
+            <name>Cristian Toth</name>
+            <email>ctoth@apache.org</email>
+            <organization>CODEBEAT S.R.L, Romania</organization>
+            <organizationUrl>http://www.codebeat.ro/</organizationUrl>
+            <timezone>+2</timezone>
         </developer>
     </developers>
     <contributors>
