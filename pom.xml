@@ -213,9 +213,8 @@
             <organization>Oracle, U.S.A</organization>
             <organizationUrl>http://www.oracle.com</organizationUrl>
             <roles>
+                <role>PMC</role>
                 <role>Portlet Bridge Project Lead</role>
-                <role>JSR-301 JSF Portlet Bridge EG Member</role>
-                <role>Portlet Guru</role>
             </roles>
             <timezone>-7</timezone>
         </developer>
