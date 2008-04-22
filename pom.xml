@@ -41,7 +41,7 @@
             <name>Myfaces User List</name>
             <subscribe>users-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>users-unsubscribe@myfaces.apache.org</unsubscribe>
-            <post>do not post to users@myfaces.apache.org unless subscribed</post>
+            <post>Subscribe to this list before posting</post>
             <archive>http://markmail.org/list/org.apache.myfaces.users</archive>
             <otherArchives>
                 <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-users</otherArchive>
@@ -53,7 +53,7 @@
             <name>Myfaces Developer List</name>
             <subscribe>dev-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>dev-unsubscribe@myfaces.apache.org</unsubscribe>
-            <post>do not post to dev@myfaces.apache.org unless subscribed</post>
+            <post>Subscribe to this list before posting</post>
             <archive>http://markmail.org/list/org.apache.myfaces.dev</archive>
             <otherArchives>
                 <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-dev</otherArchive>
@@ -65,7 +65,7 @@
             <name>Myfaces Announcements List</name>
             <subscribe>announce-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>announce-unsubscribe@myfaces.apache.org</unsubscribe>
-            <post>do not post</post>
+            <post>Do not post (read-only list)</post>
             <archive>http://markmail.org/list/org.apache.myfaces.announce</archive>
             <otherArchives>
                 <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-announce</otherArchive>
@@ -75,7 +75,7 @@
             <name>Myfaces Commits List</name>
             <subscribe>commits-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>commits-unsubscribe@myfaces.apache.org</unsubscribe>
-            <post>do not post</post>
+            <post>Do not post (read-only list)</post>
             <archive>http://markmail.org/list/org.apache.myfaces.commits</archive>
             <otherArchives>
                 <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-commits</otherArchive>
@@ -85,13 +85,13 @@
             <name>Myfaces Private (PMC) List</name>
             <subscribe>only for MyFaces PMC members</subscribe>
             <unsubscribe>private-unsubscribe@myfaces.apache.org</unsubscribe>
-            <post>do not post unless you need to contact PMC on issues not meant for public</post>
+            <post>Do not post unless you need to contact PMC on issues not meant for public</post>
         </mailingList>
         <mailingList>
             <name>Myfaces Notifications List</name>
             <subscribe>notifications-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>notifications-unsubscribe@myfaces.apache.org</unsubscribe>
-            <post>do not post</post>
+            <post>Do not post (read-only list)</post>
             <archive>http://markmail.org/list/org.apache.myfaces.notifications</archive>
             <otherArchives>
                 <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-notifications</otherArchive>
