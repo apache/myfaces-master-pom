@@ -560,6 +560,17 @@
             <organizationUrl>http://www.codebeat.ro/</organizationUrl>
             <timezone>+2</timezone>
         </developer>
+        <developer>
+           <id>hazems</id>        
+           <name>Hazem Saleh</name>
+           <email>hazems@apache.org</email>      
+           <organization>IBM, Egypt</organization>      
+           <organizationUrl>http://www.ibm.com/eg/</organizationUrl>           
+           <roles>
+              <role>committer</role>
+           </roles>
+            <timezone>+2</timezone>           
+        </developer>           
     </developers>
     <contributors>
         <contributor>
@@ -605,15 +616,7 @@
            <roles>
               <role>Schedule</role>
            </roles>
-        </contributor>
-        <contributor>
-           <name>Hazem Saleh</name>
-           <email>Hazem.saleh@gmail.com</email>           
-           <roles>
-              <role>PasswordStrength</role>
-           </roles>
-            <timezone>+2</timezone>           
-        </contributor>        
+        </contributor>     
     </contributors>
 
     <scm>
