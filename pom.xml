@@ -1,14 +1,20 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<!--
+  This is a parent POM that is meant to be used by all MyFaces (sub) projects.
+  It contains information that is common to all MyFaces artifacts.
+-->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
     <modelVersion>4.0.0</modelVersion>
+
     <parent>
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>4</version>
     </parent>
-    <!--
-      This is a parent POM that is meant to be used by all MyFaces (sub) projects.
-      It contains information that is common to all MyFaces artifacts.
-    -->
+
     <groupId>org.apache.myfaces</groupId>
     <artifactId>myfaces</artifactId>
     <packaging>pom</packaging>
@@ -20,10 +26,12 @@
        convenient JSF stuff.
     </description>
     <url>http://myfaces.apache.org</url>
+
     <issueManagement>
         <system>jira</system>
         <url>https://issues.apache.org/jira/secure/BrowseProjects.jspa</url>
     </issueManagement>
+
     <ciManagement>
         <system>continuum</system>
         <url>http://myfaces.zones.apache.org:8080/continuum</url>
@@ -756,8 +764,8 @@
                 <artifactId>maven-checkstyle-plugin</artifactId>
                 <version>2.1</version>
                 <configuration>
-                    <configLocation>http://svn.apache.org/repos/asf/myfaces/maven/trunk/build-tools/src/main/resources/config/myfaces-checks.xml</configLocation>
-                    <headerLocation>http://svn.apache.org/repos/asf/myfaces/maven/trunk/build-tools/src/main/resources/config/myfaces-header.txt</headerLocation>
+                    <configLocation>http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/checkstyle/default/myfaces-checks.xml</configLocation>
+                    <headerLocation>http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/checkstyle/default/myfaces-header.txt</headerLocation>
                 </configuration>
             </plugin>
       </plugins>
