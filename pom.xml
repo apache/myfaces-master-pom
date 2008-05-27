@@ -764,8 +764,15 @@
                 <artifactId>maven-checkstyle-plugin</artifactId>
                 <version>2.1</version>
                 <configuration>
-                    <configLocation>http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/checkstyle/default/myfaces-checks.xml</configLocation>
-                    <headerLocation>http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/checkstyle/default/myfaces-header.txt</headerLocation>
+<!-- TODO: FIX THIS!
+  -
+  - Referencing resources directly from svn is very bad. Firstly, it needs network access to build anything.
+  - But worse, if this pom is released with this here, then svn cannot be reorganised to move these files
+  - without breaking any builds that use that released pom. Which means the svn directory structure is
+  - effectively "locked" in place for years.
+  -->
+                    <configLocation>http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk/checkstyle/default/myfaces-checks.xml</configLocation>
+                    <headerLocation>http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk/checkstyle/default/myfaces-header.txt</headerLocation>
                 </configuration>
             </plugin>
       </plugins>
