@@ -639,6 +639,20 @@
     <build>
         <defaultGoal>install</defaultGoal>
 
+        <plugins>
+          <plugin>
+            <artifactId>maven-checkstyle-plugin</artifactId>
+            <version>2.2</version>
+            <dependencies>
+              <dependency>
+                <groupId>org.apache.myfaces.buildtools</groupId>
+                <artifactId>checkstyle-rules</artifactId>
+                <version>1-SNAPSHOT</version>
+              </dependency>
+            </dependencies>
+          </plugin>
+        </plugins>
+
         <!-- 
           - The pluginManagement section does not declare actual dependencies.
           - However if a child pom declares a dependency on one of the plugins
@@ -682,11 +696,6 @@
               <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <version>2.2-beta-1</version>
-              </plugin>
-
-              <plugin>
-                <artifactId>maven-checkstyle-plugin</artifactId>
-                <version>2.1</version>
               </plugin>
 
               <plugin>
@@ -762,17 +771,10 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
-                <version>2.1</version>
+                <version>2.2</version>
                 <configuration>
-<!-- TODO: FIX THIS!
-  -
-  - Referencing resources directly from svn is very bad. Firstly, it needs network access to build anything.
-  - But worse, if this pom is released with this here, then svn cannot be reorganised to move these files
-  - without breaking any builds that use that released pom. Which means the svn directory structure is
-  - effectively "locked" in place for years.
-  -->
-                    <configLocation>http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk/checkstyle/default/myfaces-checks.xml</configLocation>
-                    <headerLocation>http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk/checkstyle/default/myfaces-header.txt</headerLocation>
+                    <configLocation>default/myfaces-checks.xml</configLocation>
+                    <headerLocation>default/myfaces-header.txt</headerLocation>
                 </configuration>
             </plugin>
       </plugins>
