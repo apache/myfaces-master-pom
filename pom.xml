@@ -49,7 +49,7 @@
             <name>Myfaces User List</name>
             <subscribe>users-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>users-unsubscribe@myfaces.apache.org</unsubscribe>
-            <post>Subscribe to this list before posting</post>
+            <post>List for posting questions about how to use myfaces projects. Subscribe to this list before posting</post>
             <archive>http://markmail.org/list/org.apache.myfaces.users</archive>
             <otherArchives>
                 <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-users</otherArchive>
@@ -61,7 +61,7 @@
             <name>Myfaces Developer List</name>
             <subscribe>dev-subscribe@myfaces.apache.org</subscribe>
             <unsubscribe>dev-unsubscribe@myfaces.apache.org</unsubscribe>
-            <post>Subscribe to this list before posting</post>
+            <post>List for posting patches and discussing internal code implementation issues. Subscribe to this list before posting</post>
             <archive>http://markmail.org/list/org.apache.myfaces.dev</archive>
             <otherArchives>
                 <otherArchive>http://mail-archives.apache.org/mod_mbox/myfaces-dev</otherArchive>
@@ -683,7 +683,7 @@
                 explicitly in your plugin configuration.
                 -->
                 <artifactId>maven-jar-plugin</artifactId>
-                <version>2.1</version>
+                <version>2.2</version>
                 <configuration>
                   <archive>
                     <manifest>
@@ -695,12 +695,12 @@
 
               <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
-                <version>2.2-beta-1</version>
+                <version>2.2-beta-2</version>
               </plugin>
 
               <plugin>
                 <artifactId>maven-javadoc-plugin</artifactId>
-                <version>2.3</version>
+                <version>2.5</version>
               </plugin>
 
               <plugin>
@@ -715,7 +715,7 @@
 
               <plugin>
                 <artifactId>maven-site-plugin</artifactId>
-                <version>2.0-beta-6</version>
+                <version>2.0-beta-7</version>
               </plugin>
 
               <plugin>
@@ -725,16 +725,15 @@
 
               <plugin>
                 <artifactId>maven-surefire-plugin</artifactId>
-                <version>2.3.1</version>
+                <version>2.4.3</version>
               </plugin>
 
               <plugin>
                 <artifactId>maven-surefire-report-plugin</artifactId>
-                <version>2.3.1</version>
+                <version>2.4.3</version>
               </plugin>
 
               <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
                 <version>2.2</version>
                 <configuration>
@@ -750,11 +749,11 @@
         <plugins>
             <plugin>
                 <artifactId>maven-project-info-reports-plugin</artifactId>
-                <version>2.0.1</version>
+                <version>2.1</version>
             </plugin>
             <plugin>
                 <artifactId>maven-pmd-plugin</artifactId>
-                <version>2.2</version>
+                <version>2.4</version>
                 <configuration>
                     <rulesets>
                         <ruleset>/rulesets/basic.xml</ruleset>
@@ -768,7 +767,7 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>findbugs-maven-plugin</artifactId>
-                <version>1.1.1</version>
+                <version>1.2</version>
                 <configuration>
                     <threshold>Low</threshold>
                 </configuration>
@@ -822,8 +821,6 @@
       <build>
         <plugins>
           <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-
             <artifactId>maven-gpg-plugin</artifactId>
             <version>1.0-alpha-4</version>
             <executions>
