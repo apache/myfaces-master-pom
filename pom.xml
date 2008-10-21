@@ -512,7 +512,11 @@
             <id>lu4242</id>
             <name>Leonardo Uribe</name>
             <email>lu4242@apache.org</email>
-            <organization />
+            <organization>IRIAN.at, Austria</organization>
+            <organizationUrl>http://www.irian.at/</organizationUrl>
+            <roles>
+                <role>PMC</role>
+            </roles>            
             <timezone>-5</timezone>
         </developer>
         <developer>
