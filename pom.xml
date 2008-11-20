@@ -170,8 +170,8 @@
             <organizationUrl>http://www.irian.at/</organizationUrl>
             <roles>
                 <role>Founder of MyFaces</role>
-                <role>PMC Chair</role>
                 <role>JSR-252 JSF 1.2 EG member</role>
+                <role>PMC</role>
             </roles>
             <timezone>+1</timezone>
         </developer>
@@ -193,7 +193,7 @@
             <organization>Oracle, Germany</organization>
             <organizationUrl>http://www.oracle.com/</organizationUrl>
             <roles>
-                <role>PMC</role>
+                <role>PMC Chair</role>
             </roles>
             <timezone>+1</timezone>
         </developer>
