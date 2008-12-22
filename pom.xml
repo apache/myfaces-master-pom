@@ -1,4 +1,4 @@
-<!--
+﻿<!--
   This is a parent POM that is meant to be used by all MyFaces (sub) projects.
   It contains information that is common to all MyFaces artifacts.
 -->
@@ -448,7 +448,7 @@
             <organization>IRIAN.at, Austria</organization>
             <organizationUrl>http://www.irian.at/</organizationUrl>
             <roles>
-                <role>committer</role>
+                <role>PMC</role>
             </roles>
             <timezone>+1</timezone>
         </developer>
