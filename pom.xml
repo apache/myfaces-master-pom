@@ -1,4 +1,4 @@
-﻿<!--
+<!--
   This is a parent POM that is meant to be used by all MyFaces (sub) projects.
   It contains information that is common to all MyFaces artifacts.
 -->
@@ -161,6 +161,17 @@
                 <role>PMC</role>
             </roles>
             <timezone>-8</timezone>
+        </developer>
+        <developer>
+            <id>jankeesvanandel</id>
+            <name>Jan-Kees van Andel</name>
+            <email>jankeesvanandel@apache.org</email>
+            <organization>Ordina J-Technologies, The Netherlands</organization>
+            <organizationUrl>http://www.ordina.com/</organizationUrl>
+            <roles>
+                <role>Committer</role>
+            </roles>
+            <timezone>+1</timezone>
         </developer>
         <developer>
             <id>manolito</id>
