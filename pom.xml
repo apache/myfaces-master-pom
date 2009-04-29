@@ -597,6 +597,17 @@
            </roles>
             <timezone>+2</timezone>           
         </developer>           
+        <developer>
+           <id>ganesh</id>        
+           <name>Ganesh Jung</name>
+           <email>ganesh@apache.org</email>      
+           <organization>J4Fry</organization>      
+           <organizationUrl>http://www.j4fry.org</organizationUrl>           
+           <roles>
+              <role>committer</role>
+           </roles>
+            <timezone>+2</timezone>           
+        </developer>           
     </developers>
     <contributors>
         <contributor>
