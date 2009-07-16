@@ -607,14 +607,25 @@
               <role>committer</role>
            </roles>
             <timezone>+2</timezone>           
-        </developer>           
+        </developer>    
+		<developer>
+           <id>mconcini</id>        
+           <name>Michael Concini</name>
+           <email>mconcini@apache.org</email>      
+           <organization>IBM</organization>      
+           <organizationUrl>http://www.ibm.com</organizationUrl>           
+           <roles>
+              <role>committer</role>
+           </roles>
+            <timezone>-5</timezone>           
+        </developer>        
         <developer>
             <id>cjhoward</id>
             <name>Curtiss Howard</name>
             <organization />
             <email>cjhoward@apache.org</email>
             <roles>
-              <role>Developer</role>
+              <role>committer</role>
             </roles>
             <timezone>-5</timezone>
         </developer>
