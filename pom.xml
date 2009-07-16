@@ -608,6 +608,16 @@
            </roles>
             <timezone>+2</timezone>           
         </developer>           
+        <developer>
+            <id>cjhoward</id>
+            <name>Curtiss Howard</name>
+            <organization />
+            <email>cjhoward@apache.org</email>
+            <roles>
+              <role>Developer</role>
+            </roles>
+            <timezone>-5</timezone>
+        </developer>
     </developers>
     <contributors>
         <contributor>
