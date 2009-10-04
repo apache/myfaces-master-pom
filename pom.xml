@@ -437,8 +437,8 @@
             <id>jlust</id>
             <name>Jurgen Lust</name>
             <email>jlust@apache.org</email>
-            <organization>Ghent University</organization>
-            <organizationUrl>http://www.UGent.be</organizationUrl>
+            <organization>BeeWorks</organization>
+            <organizationUrl>http://www.beeworks.be</organizationUrl>
             <timezone>+1</timezone>
         </developer>
         <developer>
