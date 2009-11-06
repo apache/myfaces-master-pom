@@ -639,6 +639,16 @@
             </roles>
             <timezone>-5</timezone>
         </developer>
+        <developer>
+          <id>muthaman</id>
+          <name>Mamallan Uthaman</name>
+          <organization>Oracle Corp</organization>
+          <email>muthaman@apache.org</email>
+          <roles>
+            <role>committer</role>
+          </roles>
+          <timezone>-8</timezone>
+        </developer>
     </developers>
     <contributors>
         <contributor>
