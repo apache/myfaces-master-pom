@@ -571,6 +571,16 @@
                  <timezone>-7</timezone>
         </developer>
         <developer>
+            <id>mstarets</id>
+            <name>Max Starets</name>
+            <organization>Oracle Corp</organization>
+            <email>mstarets@apache.org</email>
+                <roles>
+                  <role>Developer</role>
+                </roles>
+                 <timezone>-5</timezone>
+        </developer>
+        <developer>
             <id>efastl</id>
             <name>Ernst Fastl</name>
             <email>efastl@apache.org</email>
