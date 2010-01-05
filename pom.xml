@@ -649,6 +649,16 @@
           </roles>
           <timezone>-8</timezone>
         </developer>
+        <developer>
+            <id>btsulliv</id>
+            <name>Blake Sullivan</name>
+            <organization>Oracle Corp</organization>
+            <email>blake.sullivan@oracle.com</email>
+            <roles>
+              <role>Developer</role>
+            </roles>
+            <timezone>-8</timezone>
+        </developer>
     </developers>
     <contributors>
         <contributor>
