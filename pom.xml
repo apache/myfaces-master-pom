@@ -16,7 +16,7 @@
     <artifactId>myfaces</artifactId>
     <packaging>pom</packaging>
     <name>Apache MyFaces</name>
-    <version>8</version>
+    <version>9-SNAPSHOT</version>
     <description>
        The MyFaces project is home of the first free open source JavaServer Faces
        implementation as well as some useful JSF component libraries and other
@@ -716,9 +716,9 @@
     </contributors>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/tags/myfaces-8</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/branches/myfaces-8</developerConnection>
-        <url>http://svn.apache.org/viewcvs.cgi/myfaces/myfaces-master-pom/tags/myfaces-8</url>
+        <connection>scm:svn:http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</connection>
+        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</developerConnection>
+        <url>http://svn.apache.org/viewcvs.cgi/myfaces/myfaces-master-pom/trunk</url>
     </scm>
 
     <build>
