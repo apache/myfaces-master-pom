@@ -686,6 +686,15 @@
             </roles>
             <timezone>+1</timezone>
         </developer>
+        <developer>
+            <id>rdebusscher</id>
+            <name>Rudy De Busscher</name>
+            <email>rdebusscher@apache.org</email>
+            <timezone>+1</timezone>
+            <roles>
+              <role>committer</role>
+            </roles>
+        </developer>		
     </developers>
     <contributors>
         <contributor>
