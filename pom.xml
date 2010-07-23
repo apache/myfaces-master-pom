@@ -694,6 +694,15 @@
             <roles>
               <role>committer</role>
             </roles>
+        </developer>
+        <developer>
+            <id>aliok</id>
+            <name>Ali Ok</name>
+            <email>aliok@apache.org</email>
+            <timezone>+2</timezone>
+            <roles>
+              <role>committer</role>
+            </roles>
         </developer>		
     </developers>
     <contributors>
