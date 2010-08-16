@@ -698,6 +698,8 @@
         <developer>
             <id>aliok</id>
             <name>Ali Ok</name>
+            <organization>Innflow AG</organization>
+            <organizationUrl>http://www.innflow.com</organizationUrl>
             <email>aliok@apache.org</email>
             <timezone>+2</timezone>
             <roles>
