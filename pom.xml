@@ -49,7 +49,7 @@
     </issueManagement>
 
     <ciManagement>
-        <system>continuum</system>
+        <system>Hudson</system>
         <url>https://hudson.apache.org</url>
         <notifiers>
             <notifier>
