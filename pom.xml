@@ -35,7 +35,7 @@
     <artifactId>myfaces</artifactId>
     <packaging>pom</packaging>
     <name>Apache MyFaces</name>
-    <version>11-SNAPSHOT</version>
+    <version>10-SNAPSHOT</version>
     <description>
        The MyFaces project is home of the first free open source JavaServer Faces
        implementation as well as some useful JSF component libraries and other
