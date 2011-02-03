@@ -715,6 +715,17 @@
               <role>committer</role>
             </roles>
         </developer>		
+	<developer>
+            <id>andys</id>
+            <name>Andy Schwartz</name>
+            <organization>Oracle</organization>
+            <organizationUrl>http://www.oracle.com/</organizationUrl>
+            <email>andys@apache.org</email>
+            <timezone>-5</timezone>
+            <roles>
+              <role>committer</role>
+            </roles>
+        </developer>		
     </developers>
     <contributors>
         <contributor>
