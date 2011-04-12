@@ -726,6 +726,15 @@
               <role>committer</role>
             </roles>
         </developer>		
+        <developer>
+            <id>struberg</id>
+            <name>Mark Struberg</name>
+            <email>struberg@apache.org</email>
+            <roles>
+                <role>PMC</role>
+            </roles>            
+            <timezone>+1</timezone>
+        </developer>
     </developers>
     <contributors>
         <contributor>
