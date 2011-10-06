@@ -742,6 +742,15 @@
             </roles>            
             <timezone>+1</timezone>
         </developer>
+        <developer>
+            <id>mkurz</id>
+            <name>Michael Kurz</name>
+            <email>mkurz@apache.org</email>
+            <roles>
+                <role>committer</role>
+            </roles>
+            <timezone>+1</timezone>
+        </developer>
     </developers>
     <contributors>
         <contributor>
