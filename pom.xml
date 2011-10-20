@@ -823,7 +823,7 @@
             </executions>
             <configuration>
                 <configLocation>default/myfaces-checks-standard.xml</configLocation>
-                <headerLocation>default/myfaces-header-spaces.txt</headerLocation>
+                <headerLocation>default/myfaces-header.txt</headerLocation>
             </configuration>
             <dependencies>
               <dependency>
