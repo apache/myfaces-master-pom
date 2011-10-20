@@ -812,6 +812,19 @@
           <plugin>
             <artifactId>maven-checkstyle-plugin</artifactId>
             <version>2.7</version>
+            <executions>
+                <execution>
+                    <id>verify-style</id>
+                    <phase>verify</phase>
+                    <goals>
+                        <goal>check</goal>
+                    </goals>
+                </execution>
+            </executions>
+            <configuration>
+                <configLocation>default/myfaces-checks-standard.xml</configLocation>
+                <headerLocation>default/myfaces-header-spaces.txt</headerLocation>
+            </configuration>
             <dependencies>
               <dependency>
                 <groupId>org.apache.myfaces.buildtools</groupId>
