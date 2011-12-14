@@ -135,40 +135,6 @@
             <timezone>-7</timezone>
         </developer>
         <developer>
-            <id>idus</id>
-            <name>Arvid Hülsebus</name>
-            <email>idus@apache.org</email>
-            <organization>atanion GmbH, Germany</organization>
-            <timezone>+1</timezone>
-        </developer>
-        <developer>
-            <id>koinov</id>
-            <name>Anton Koinov</name>
-            <email>koinov@apache.org</email>
-            <organization />
-            <roles>
-                <role>PMC</role>
-            </roles>
-            <timezone />
-        </developer>
-        <developer>
-            <id>bdudney</id>
-            <name>Bill Dudney</name>
-            <email>bdudney@apache.org</email>
-            <organization />
-            <roles>
-                <role>PMC</role>
-            </roles>
-            <timezone />
-        </developer>
-        <developer>
-            <id>pleff</id>
-            <name>Detlef Bartetzko</name>
-            <email>pleff@apache.org</email>
-            <organization>atanion GmbH, Germany</organization>
-            <timezone>+1</timezone>
-        </developer>
-        <developer>
             <id>grantsmith</id>
             <name>Grant Smith</name>
             <email>grantsmith@apache.org</email>
@@ -232,16 +198,6 @@
             <timezone>+1</timezone>
         </developer>
         <developer>
-            <id>oros</id>
-            <name>Oliver Rossmueller</name>
-            <email>oros@apache.org</email>
-            <organization />
-            <roles>
-                <role>PMC</role>
-            </roles>
-            <timezone>+1</timezone>
-        </developer>
-        <developer>
             <id>hennes</id>
             <name>Philippe Hennes</name>
             <email>hennes@apache.org</email>
@@ -261,39 +217,6 @@
             <timezone>-7</timezone>
         </developer>
         <developer>
-            <id>schof</id>
-            <name>Sean Schofield</name>
-            <email>schof@apache.org</email>
-            <organization />
-            <roles>
-                <role>PMC</role>
-            </roles>
-            <timezone>-5</timezone>
-        </developer>
-        <developer>
-            <id>svieujot</id>
-            <name>Sylvain Vieujot</name>
-            <email>svieujot@apache.org</email>
-            <organization />
-            <roles>
-                <role>PMC</role>
-            </roles>
-            <timezone>+4</timezone>
-        </developer>
-        <developer>
-            <id>husted</id>
-            <name>Ted Husted</name>
-            <email>husted@apache.org</email>
-            <organization />
-            <roles>
-                <role>PMC</role>
-                <role>ASF Member</role>
-                <role>Struts PMC</role>
-                <role>Jakarta PMC</role>
-            </roles>
-            <timezone />
-        </developer>
-        <developer>
             <id>tomsp</id>
             <name>Thomas Spiegl</name>
             <email>tomsp@apache.org</email>
@@ -305,16 +228,6 @@
             <timezone>+1</timezone>
         </developer>
         <developer>
-            <id>prophecy</id>
-            <name>Travis Reeder</name>
-            <email>prophecy@apache.org</email>
-            <organization />
-            <roles>
-                <role>PMC</role>
-            </roles>
-            <timezone />
-        </developer>
-        <developer>
             <id>baranda</id>
             <name>Bruno Aranda</name>
             <email>baranda@apache.org</email>
@@ -324,22 +237,6 @@
                 <role>PMC</role>
             </roles>
             <timezone>0</timezone>
-        </developer>
-        <developer>
-            <id>jmitchell</id>
-            <name>James Mitchell</name>
-            <email>jmitchell@apache.org</email>
-            <organization>EdgeTech, Inc.,United States of America</organization>
-            <organizationUrl>www.edgetechservices.net</organizationUrl>
-            <timezone>-5</timezone>
-        </developer>
-        <developer>
-            <id>mbr</id>
-            <name>Mathias Broekelmann</name>
-            <email>mbr@apache.org</email>
-            <organization>PSI Information Management GmbH, Germany</organization>
-            <organizationUrl>http://www.psi-im.de</organizationUrl>
-            <timezone>+1</timezone>
         </developer>
         <developer>
             <id>lofwyr</id>
@@ -384,16 +281,6 @@
             <timezone />
         </developer>
         <developer>
-            <id>skitching</id>
-            <name>Simon Kitching</name>
-            <email>skitching@apache.org</email>
-            <organization />
-            <roles>
-                <role>PMC</role>
-            </roles>
-            <timezone>+1</timezone>
-        </developer>
-        <developer>
             <id>weber</id>
             <name>Volker Weber</name>
             <email>weber@apache.org</email>
@@ -403,17 +290,6 @@
                 <role>PMC</role>
             </roles>
             <timezone>+1</timezone>
-        </developer>
-        <developer>
-            <id>dennisbyrne</id>
-            <name>Dennis Byrne</name>
-            <email>dennisbyrne@apache.org</email>
-            <organization>ThoughtWorks</organization>
-            <organizationUrl>http://www.thoughtworks.com</organizationUrl>
-            <roles>
-                <role>PMC</role>
-            </roles>
-            <timezone>-6</timezone>
         </developer>
         <developer>
             <id>bommel</id>
@@ -449,33 +325,6 @@
             <timezone>+2</timezone>
         </developer>
         <developer>
-            <id>sharathreddy</id>
-            <name>Sharath Reddy</name>
-            <email>sharathreddy@yahoo.com</email>
-            <organization>N.A.</organization>
-            <organizationUrl>N.A.</organizationUrl>
-            <timezone>+5.5</timezone>
-        </developer>
-        <developer>
-            <id>jlust</id>
-            <name>Jurgen Lust</name>
-            <email>jlust@apache.org</email>
-            <organization>BeeWorks</organization>
-            <organizationUrl>http://www.beeworks.be</organizationUrl>
-            <timezone>+1</timezone>
-        </developer>
-        <developer>
-            <id>gmuellan</id>
-            <name>Gerald Muellan</name>
-            <email>gmuellan@apache.org</email>
-            <organization>IRIAN.at, Austria</organization>
-            <organizationUrl>http://www.irian.at/index.jsp?lang=en</organizationUrl>
-            <roles>
-                <role>PMC</role>
-            </roles>
-            <timezone>+1</timezone>
-        </developer>
-        <developer>
             <id>gpetracek</id>
             <name>Gerhard Petracek</name>
             <email>gpetracek@apache.org</email>
@@ -487,49 +336,12 @@
             <timezone>+1</timezone>
         </developer>
         <developer>
-            <id>bhuemer</id>
-            <name>Bernhard Huemer</name>
-            <email>bhuemer@apache.org</email>
-            <organization>IRIAN.at, Austria</organization>
-            <organizationUrl>http://www.irian.at/</organizationUrl>
-            <timezone>+1</timezone>
-        </developer>
-        <developer>
             <id>ckormos</id>
             <name>Catalin Kormos</name>
             <email>ckormos@apache.org</email>
             <organization>CODEBEAT S.R.L, Romania</organization>
             <organizationUrl>http://www.codebeat.ro/</organizationUrl>
             <timezone>+2</timezone>
-        </developer>
-        <developer>
-            <id>wsmoak</id>
-            <name>Wendy Smoak</name>
-            <email>wsmoak@apache.org</email>
-            <organization />
-            <timezone>-7</timezone>
-        </developer>
-        <developer>
-            <id>lfrohman</id>
-            <name>Lance Frohman</name>
-            <email>lfrohman@apache.org</email>
-            <organization />
-            <organizationUrl />
-            <timezone>-8</timezone>
-        </developer>
-        <developer>
-            <id>paulsp</id>
-            <name>Paul Spencer</name>
-            <email>paulsp@apache.org</email>
-            <organization />
-            <timezone>-5</timezone>
-        </developer>
-        <developer>
-            <id>pmcmahan</id>
-            <name>Paul McMahan</name>
-            <email>pmcmahan@apache.org</email>
-            <organization />
-            <timezone>-5</timezone>
         </developer>
         <developer>
             <id>slessard</id>
@@ -552,16 +364,6 @@
                 <role>PMC</role>
             </roles>            
             <timezone>-5</timezone>
-        </developer>
-        <developer>
-            <id>awiner</id>
-            <name>Adam Winer</name>
-            <organization />
-            <email>awiner@apache.org</email>
-            <roles>
-              <role>Developer</role>
-            </roles>
-            <timezone>-8</timezone>
         </developer>
         <developer>
             <id>gcrawford</id>
@@ -602,22 +404,6 @@
                   <role>PMC</role>
                 </roles>
                  <timezone>-5</timezone>
-        </developer>
-        <developer>
-            <id>efastl</id>
-            <name>Ernst Fastl</name>
-            <email>efastl@apache.org</email>
-            <organization>IRIAN.at, Austria</organization>
-            <organizationUrl>http://www.irian.at/</organizationUrl>
-            <timezone>+1</timezone>
-        </developer>
-        <developer>
-            <id>ctoth</id>
-            <name>Cristian Toth</name>
-            <email>ctoth@apache.org</email>
-            <organization>CODEBEAT S.R.L, Romania</organization>
-            <organizationUrl>http://www.codebeat.ro/</organizationUrl>
-            <timezone>+2</timezone>
         </developer>
         <developer>
            <id>hazems</id>        
@@ -796,7 +582,278 @@
            <roles>
               <role>Schedule</role>
            </roles>
-        </contributor>     
+        </contributor>
+        
+        <!-- Retired contributors -->
+        <contributor>
+            <name>Adam Winer</name>
+            <organization />
+            <email>awiner@apache.org</email>
+            <roles>
+              <role>Developer</role>
+              <role>Retired</role>
+            </roles>
+            <timezone>-8</timezone>
+        </contributor>
+        <contributor>
+            <name>Anton Koinov</name>
+            <email>koinov@apache.org</email>
+            <organization />
+            <roles>
+                <role>PMC</role>
+                <role>Retired</role>
+            </roles>
+            <timezone />
+        </contributor>
+        <contributor>
+            <name>Arvid Hülsebus</name>
+            <email>idus@apache.org</email>
+            <organization>atanion GmbH, Germany</organization>
+            <timezone>+1</timezone>
+            <roles>
+                <role>Retired</role>
+            </roles>
+        </contributor>
+        <contributor>
+            <name>Bernhard Huemer</name>
+            <email>bhuemer@apache.org</email>
+            <organization>IRIAN.at, Austria</organization>
+            <organizationUrl>http://www.irian.at/</organizationUrl>
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>+1</timezone>
+        </contributor>
+        <contributor>
+            <name>Bill Dudney</name>
+            <email>bdudney@apache.org</email>
+            <organization />
+            <roles>
+                <role>PMC</role>
+                <role>Retired</role>
+            </roles>
+            <timezone />
+        </contributor>
+        <contributor>
+            <name>Cristian Toth</name>
+            <email>ctoth@apache.org</email>
+            <organization>CODEBEAT S.R.L, Romania</organization>
+            <organizationUrl>http://www.codebeat.ro/</organizationUrl>
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>+2</timezone>
+        </contributor>
+        <contributor>
+            <name>Dennis Byrne</name>
+            <email>dennisbyrne@apache.org</email>
+            <organization>ThoughtWorks</organization>
+            <organizationUrl>http://www.thoughtworks.com</organizationUrl>
+            <roles>
+                <role>PMC</role>
+                <role>Retired</role>
+            </roles>
+            <timezone>-6</timezone>
+        </contributor>
+        <contributor>
+            <name>Detlef Bartetzko</name>
+            <email>pleff@apache.org</email>
+            <organization>atanion GmbH, Germany</organization>
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>+1</timezone>
+        </contributor>
+        <contributor>
+            <name>Ernst Fastl</name>
+            <email>efastl@apache.org</email>
+            <organization>IRIAN.at, Austria</organization>
+            <organizationUrl>http://www.irian.at/</organizationUrl>
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>+1</timezone>
+        </contributor>
+        <contributor>
+            <name>Gerald Muellan</name>
+            <email>gmuellan@apache.org</email>
+            <organization>IRIAN.at, Austria</organization>
+            <organizationUrl>http://www.irian.at/index.jsp?lang=en</organizationUrl>
+            <roles>
+                <role>PMC</role>
+                <role>Retired</role>
+            </roles>
+            <timezone>+1</timezone>
+        </contributor>
+        <contributor>
+            <name>James Mitchell</name>
+            <email>jmitchell@apache.org</email>
+            <organization>EdgeTech, Inc.,United States of America</organization>
+            <organizationUrl>www.edgetechservices.net</organizationUrl>
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>-5</timezone>
+        </contributor>
+        <contributor>
+            <name>Jurgen Lust</name>
+            <email>jlust@apache.org</email>
+            <organization>BeeWorks</organization>
+            <organizationUrl>http://www.beeworks.be</organizationUrl>
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>+1</timezone>
+        </contributor>
+        <contributor>
+            <name>Lance Frohman</name>
+            <email>lfrohman@apache.org</email>
+            <organization />
+            <organizationUrl />
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>-8</timezone>
+        </contributor>
+        <contributor>
+            <name>Mathias Broekelmann</name>
+            <email>mbr@apache.org</email>
+            <organization>PSI Information Management GmbH, Germany</organization>
+            <organizationUrl>http://www.psi-im.de</organizationUrl>
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>+1</timezone>
+        </contributor>
+        <contributor>
+            <name>Oliver Rossmueller</name>
+            <email>oros@apache.org</email>
+            <organization />
+            <roles>
+                <role>PMC</role>
+                <role>Retired</role>
+            </roles>
+            <timezone>+1</timezone>
+        </contributor>
+        <contributor>
+            <name>Paul Spencer</name>
+            <email>paulsp@apache.org</email>
+            <organization />
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>-5</timezone>
+        </contributor>
+        <contributor>
+            <name>Paul McMahan</name>
+            <email>pmcmahan@apache.org</email>
+            <organization />
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>-5</timezone>
+        </contributor>
+        <contributor>
+            <name>Sean Schofield</name>
+            <email>schof@apache.org</email>
+            <organization />
+            <roles>
+                <role>PMC</role>
+                <role>Retired</role>
+            </roles>
+            <timezone>-5</timezone>
+        </contributor>
+        <contributor>
+            <name>Sharath Reddy</name>
+            <email>sharathreddy@yahoo.com</email>
+            <organization>N.A.</organization>
+            <organizationUrl>N.A.</organizationUrl>
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>+5.5</timezone>
+        </contributor>
+        <contributor>
+            <name>Simon Kitching</name>
+            <email>skitching@apache.org</email>
+            <organization />
+            <roles>
+                <role>PMC</role>
+                <role>Retired</role>
+            </roles>
+            <timezone>+1</timezone>
+        </contributor>
+        <contributor>
+            <name>Sylvain Vieujot</name>
+            <email>svieujot@apache.org</email>
+            <organization />
+            <roles>
+                <role>PMC</role>
+                <role>Retired</role>
+            </roles>
+            <timezone>+4</timezone>
+        </contributor>
+        <contributor>
+            <name>Ted Husted</name>
+            <email>husted@apache.org</email>
+            <organization />
+            <roles>
+                <role>PMC</role>
+                <role>ASF Member</role>
+                <role>Struts PMC</role>
+                <role>Jakarta PMC</role>
+                <role>MyFaces Retired</role>
+            </roles>
+            <timezone />
+        </contributor>
+        <contributor>
+            <name>Travis Reeder</name>
+            <email>prophecy@apache.org</email>
+            <organization />
+            <roles>
+                <role>PMC</role>
+            </roles>
+            <timezone />
+        </contributor>
+        <contributor>
+            <name>Wendy Smoak</name>
+            <email>wsmoak@apache.org</email>
+            <organization />
+            <roles>
+                <role>Retired</role>
+            </roles>
+            <timezone>-7</timezone>
+        </contributor>
+        <contributor>
+            <name>Alexander Bell</name>
+            <roles>
+                <role>Retired</role>
+            </roles>
+        </contributor>
+        <contributor>
+            <name>craig r. mcclanahan</name>
+            <roles>
+                <role>Retired</role>
+            </roles>
+        </contributor>
+        <contributor>
+            <name>daniel robinson</name>
+            <roles>
+                <role>Retired</role>
+            </roles>
+        </contributor>
+        <contributor>
+            <name>james holmes</name>
+            <roles>
+                <role>Retired</role>
+            </roles>
+        </contributor>
+        <contributor>
+            <name>john robert fallows</name>
+            <roles>
+                <role>Retired</role>
+            </roles>
+        </contributor>
     </contributors>
 
     <scm>
@@ -829,7 +886,7 @@
               <dependency>
                 <groupId>org.apache.myfaces.buildtools</groupId>
                 <artifactId>checkstyle-rules</artifactId>
-                <version>3</version>
+                <version>4-SNAPSHOT</version>
               </dependency>
             </dependencies>
           </plugin>
