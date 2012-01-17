@@ -584,14 +584,14 @@
            </roles>
         </contributor>
         
-        <!-- Retired contributors -->
+        <!-- Emeritus contributors -->
         <contributor>
             <name>Adam Winer</name>
             <organization />
             <email>awiner@apache.org</email>
             <roles>
               <role>Developer</role>
-              <role>Retired</role>
+              <role>Emeritus</role>
             </roles>
             <timezone>-8</timezone>
         </contributor>
@@ -601,7 +601,7 @@
             <organization />
             <roles>
                 <role>PMC</role>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone />
         </contributor>
@@ -611,7 +611,7 @@
             <organization>atanion GmbH, Germany</organization>
             <timezone>+1</timezone>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
         </contributor>
         <contributor>
@@ -620,7 +620,7 @@
             <organization>IRIAN.at, Austria</organization>
             <organizationUrl>http://www.irian.at/</organizationUrl>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+1</timezone>
         </contributor>
@@ -630,7 +630,7 @@
             <organization />
             <roles>
                 <role>PMC</role>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone />
         </contributor>
@@ -640,7 +640,7 @@
             <organization>CODEBEAT S.R.L, Romania</organization>
             <organizationUrl>http://www.codebeat.ro/</organizationUrl>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+2</timezone>
         </contributor>
@@ -651,7 +651,7 @@
             <organizationUrl>http://www.thoughtworks.com</organizationUrl>
             <roles>
                 <role>PMC</role>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>-6</timezone>
         </contributor>
@@ -660,7 +660,7 @@
             <email>pleff@apache.org</email>
             <organization>atanion GmbH, Germany</organization>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+1</timezone>
         </contributor>
@@ -670,7 +670,7 @@
             <organization>IRIAN.at, Austria</organization>
             <organizationUrl>http://www.irian.at/</organizationUrl>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+1</timezone>
         </contributor>
@@ -681,7 +681,7 @@
             <organizationUrl>http://www.irian.at/index.jsp?lang=en</organizationUrl>
             <roles>
                 <role>PMC</role>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+1</timezone>
         </contributor>
@@ -691,7 +691,7 @@
             <organization>EdgeTech, Inc.,United States of America</organization>
             <organizationUrl>www.edgetechservices.net</organizationUrl>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>-5</timezone>
         </contributor>
@@ -701,7 +701,7 @@
             <organization>BeeWorks</organization>
             <organizationUrl>http://www.beeworks.be</organizationUrl>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+1</timezone>
         </contributor>
@@ -711,7 +711,7 @@
             <organization />
             <organizationUrl />
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>-8</timezone>
         </contributor>
@@ -721,7 +721,7 @@
             <organization>PSI Information Management GmbH, Germany</organization>
             <organizationUrl>http://www.psi-im.de</organizationUrl>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+1</timezone>
         </contributor>
@@ -731,7 +731,7 @@
             <organization />
             <roles>
                 <role>PMC</role>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+1</timezone>
         </contributor>
@@ -740,7 +740,7 @@
             <email>paulsp@apache.org</email>
             <organization />
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>-5</timezone>
         </contributor>
@@ -749,7 +749,7 @@
             <email>pmcmahan@apache.org</email>
             <organization />
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>-5</timezone>
         </contributor>
@@ -759,7 +759,7 @@
             <organization />
             <roles>
                 <role>PMC</role>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>-5</timezone>
         </contributor>
@@ -769,7 +769,7 @@
             <organization>N.A.</organization>
             <organizationUrl>N.A.</organizationUrl>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+5.5</timezone>
         </contributor>
@@ -779,7 +779,7 @@
             <organization />
             <roles>
                 <role>PMC</role>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+1</timezone>
         </contributor>
@@ -789,7 +789,7 @@
             <organization />
             <roles>
                 <role>PMC</role>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>+4</timezone>
         </contributor>
@@ -802,7 +802,7 @@
                 <role>ASF Member</role>
                 <role>Struts PMC</role>
                 <role>Jakarta PMC</role>
-                <role>MyFaces Retired</role>
+                <role>MyFaces Emeritus</role>
             </roles>
             <timezone />
         </contributor>
@@ -820,38 +820,38 @@
             <email>wsmoak@apache.org</email>
             <organization />
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>-7</timezone>
         </contributor>
         <contributor>
             <name>Alexander Bell</name>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
         </contributor>
         <contributor>
             <name>craig r. mcclanahan</name>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
         </contributor>
         <contributor>
             <name>daniel robinson</name>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
         </contributor>
         <contributor>
             <name>james holmes</name>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
         </contributor>
         <contributor>
             <name>john robert fallows</name>
             <roles>
-                <role>Retired</role>
+                <role>Emeritus</role>
             </roles>
         </contributor>
     </contributors>
