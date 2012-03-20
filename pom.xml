@@ -886,7 +886,7 @@
               <dependency>
                 <groupId>org.apache.myfaces.buildtools</groupId>
                 <artifactId>checkstyle-rules</artifactId>
-                <version>4</version>
+                <version>5</version>
               </dependency>
             </dependencies>
           </plugin>
