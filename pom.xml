@@ -881,6 +881,7 @@
             <configuration>
                 <configLocation>default/myfaces-checks-standard.xml</configLocation>
                 <headerLocation>default/myfaces-header.txt</headerLocation>
+                <consoleOutput>true</consoleOutput>
             </configuration>
             <dependencies>
               <dependency>
