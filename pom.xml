@@ -138,7 +138,8 @@
             <id>grantsmith</id>
             <name>Grant Smith</name>
             <email>grantsmith@apache.org</email>
-            <organization>Marathon Computer Systems, USA</organization>
+            <organization>Object Systems Development Corporation, USA</organization>
+            <organizationUrl>http://osdcorp.com/</organizationUrl>
             <roles>
                 <role>PMC</role>
             </roles>
