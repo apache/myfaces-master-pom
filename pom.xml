@@ -538,6 +538,15 @@
             </roles>
             <timezone>+1</timezone>
         </developer>
+        <developer>
+            <id>dhoersch</id>
+            <name>Dennis Hörsch</name>
+            <email>dhoersch@apache.org</email>
+            <roles>
+                <role>committer</role>
+            </roles>
+            <timezone>+1</timezone>
+        </developer>
     </developers>
     <contributors>
         <contributor>
