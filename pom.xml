@@ -547,6 +547,17 @@
             </roles>
             <timezone>+1</timezone>
         </developer>
+		<developer>
+           <id>paulnicolucci</id>        
+           <name>Paul Nicolucci</name>
+           <email>paulnicolucci@apache.org</email>      
+           <organization>IBM</organization>      
+           <organizationUrl>http://www.ibm.com</organizationUrl>           
+           <roles>
+              <role>committer</role>
+           </roles>
+            <timezone>-5</timezone>           
+        </developer>        
     </developers>
     <contributors>
         <contributor>
