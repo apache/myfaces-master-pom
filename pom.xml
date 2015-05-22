@@ -49,8 +49,8 @@
     </issueManagement>
 
     <ciManagement>
-        <system>Hudson</system>
-        <url>https://hudson.apache.org</url>
+        <system>Jenkins</system>
+        <url>https://builds.apache.org</url>
         <notifiers>
             <notifier>
                 <type>mail</type>
