@@ -567,8 +567,6 @@
             <id>deki</id>
             <name>Dennis Kieselhorst</name>
             <email>deki@apache.org</email>
-            <organization>IRIAN, Germany</organization>
-            <organizationUrl>http://www.irian.eu</organizationUrl>
             <roles>
                 <role>committer</role>
             </roles>
