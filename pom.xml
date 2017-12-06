@@ -572,6 +572,17 @@
             </roles>
             <timezone>+1</timezone>
         </developer>
+        <developer>
+            <id>hnoeth</id>
+            <name>Henning Nöth</name>
+            <email>hnoeth@apache.org</email>
+            <organization>IRIAN, Germany</organization>
+            <organizationUrl>http://www.irian.eu</organizationUrl>
+            <roles>
+                <role>committer</role>
+            </roles>
+            <timezone>+1</timezone>
+        </developer>
     </developers>
     <contributors>
         <contributor>
