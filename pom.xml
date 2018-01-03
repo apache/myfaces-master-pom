@@ -17,7 +17,8 @@
  specific language governing permissions and limitations
  under the License.
 -->
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
     <!--
@@ -37,9 +38,9 @@
     <name>Apache MyFaces</name>
     <version>18-SNAPSHOT</version>
     <description>
-       The MyFaces project is home of the first free open source JavaServer Faces
-       implementation as well as some useful JSF component libraries and other
-       convenient JSF stuff.
+        The MyFaces project is home of the first free open source JavaServer Faces
+        implementation as well as some useful JSF component libraries and other
+        convenient JSF stuff.
     </description>
     <url>http://myfaces.apache.org</url>
 
@@ -135,7 +136,7 @@
             <organization>Oracle, Colorado</organization>
             <organizationUrl>http://www.oracle.com/</organizationUrl>
             <roles>
-              <role>PMC</role>
+                <role>PMC</role>
             </roles>
             <timezone>-7</timezone>
         </developer>
@@ -189,7 +190,7 @@
             <id>mbenson</id>
             <name>Matt Benson</name>
             <email>mbenson@apache.org</email>
-            <organization />
+            <organization/>
             <timezone>-6</timezone>
         </developer>
         <developer>
@@ -254,7 +255,7 @@
                 <role>PMC</role>
             </roles>
             <timezone>+1</timezone>
-        </developer>        
+        </developer>
         <developer>
             <id>werpu</id>
             <name>Werner Punz</name>
@@ -274,17 +275,17 @@
             <roles>
                 <role>Portlets Guru</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>mkienenb</id>
             <name>Mike Kienenberger</name>
             <email>mkienenb@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>PMC</role>
             </roles>
-            <timezone />
+            <timezone/>
         </developer>
         <developer>
             <id>weber</id>
@@ -323,8 +324,8 @@
             <id>cagatay</id>
             <name>Cagatay Civici</name>
             <email>cagatay@apache.org</email>
-            <organization />
-            <organizationUrl />
+            <organization/>
+            <organizationUrl/>
             <roles>
                 <role>PMC</role>
             </roles>
@@ -368,7 +369,7 @@
             <organizationUrl>http://www.irian.at/</organizationUrl>
             <roles>
                 <role>PMC</role>
-            </roles>            
+            </roles>
             <timezone>-5</timezone>
         </developer>
         <developer>
@@ -377,7 +378,7 @@
             <organization>Oracle Corp</organization>
             <email>gcrawford@apache.org</email>
             <roles>
-              <role>Developer</role>
+                <role>Developer</role>
             </roles>
             <timezone>-8</timezone>
         </developer>
@@ -387,7 +388,7 @@
             <organization>Oracle Corp</organization>
             <email>jwaldman@apache.org</email>
             <roles>
-              <role>Developer</role>
+                <role>Developer</role>
             </roles>
             <timezone>-8</timezone>
         </developer>
@@ -396,73 +397,73 @@
             <name>Matt Cooper</name>
             <organization>Oracle Corp</organization>
             <email>mcooper@apache.org</email>
-                <roles>
-                  <role>Developer</role>
-                </roles>
-                 <timezone>-7</timezone>
+            <roles>
+                <role>Developer</role>
+            </roles>
+            <timezone>-7</timezone>
         </developer>
         <developer>
             <id>mstarets</id>
             <name>Max Starets</name>
             <organization>Oracle Corp</organization>
             <email>mstarets@apache.org</email>
-                <roles>
-                  <role>PMC</role>
-                </roles>
-                 <timezone>-5</timezone>
-        </developer>
-        <developer>
-           <id>hazems</id>        
-           <name>Hazem Saleh</name>
-           <email>hazems@apache.org</email>      
-           <organization>IBM, Egypt</organization>      
-           <organizationUrl>http://www.ibm.com/eg/</organizationUrl>           
-           <roles>
-              <role>committer</role>
-           </roles>
-            <timezone>+2</timezone>           
-        </developer>           
-        <developer>
-           <id>ganesh</id>        
-           <name>Ganesh Jung</name>
-           <email>ganesh@apache.org</email>      
-           <organization>J4Fry</organization>      
-           <organizationUrl>http://www.j4fry.org</organizationUrl>           
-           <roles>
-              <role>committer</role>
-           </roles>
-            <timezone>+2</timezone>           
-        </developer>    
-		<developer>
-           <id>mconcini</id>        
-           <name>Michael Concini</name>
-           <email>mconcini@apache.org</email>      
-           <organization>IBM</organization>      
-           <organizationUrl>http://www.ibm.com</organizationUrl>           
-           <roles>
-              <role>committer</role>
-           </roles>
-            <timezone>-5</timezone>           
-        </developer>        
-        <developer>
-            <id>cjhoward</id>
-            <name>Curtiss Howard</name>
-            <organization />
-            <email>cjhoward@apache.org</email>
             <roles>
-              <role>committer</role>
+                <role>PMC</role>
             </roles>
             <timezone>-5</timezone>
         </developer>
         <developer>
-          <id>muthaman</id>
-          <name>Mamallan Uthaman</name>
-          <organization>Oracle Corp</organization>
-          <email>muthaman@apache.org</email>
-          <roles>
-            <role>committer</role>
-          </roles>
-          <timezone>-8</timezone>
+            <id>hazems</id>
+            <name>Hazem Saleh</name>
+            <email>hazems@apache.org</email>
+            <organization>IBM, Egypt</organization>
+            <organizationUrl>http://www.ibm.com/eg/</organizationUrl>
+            <roles>
+                <role>committer</role>
+            </roles>
+            <timezone>+2</timezone>
+        </developer>
+        <developer>
+            <id>ganesh</id>
+            <name>Ganesh Jung</name>
+            <email>ganesh@apache.org</email>
+            <organization>J4Fry</organization>
+            <organizationUrl>http://www.j4fry.org</organizationUrl>
+            <roles>
+                <role>committer</role>
+            </roles>
+            <timezone>+2</timezone>
+        </developer>
+        <developer>
+            <id>mconcini</id>
+            <name>Michael Concini</name>
+            <email>mconcini@apache.org</email>
+            <organization>IBM</organization>
+            <organizationUrl>http://www.ibm.com</organizationUrl>
+            <roles>
+                <role>committer</role>
+            </roles>
+            <timezone>-5</timezone>
+        </developer>
+        <developer>
+            <id>cjhoward</id>
+            <name>Curtiss Howard</name>
+            <organization/>
+            <email>cjhoward@apache.org</email>
+            <roles>
+                <role>committer</role>
+            </roles>
+            <timezone>-5</timezone>
+        </developer>
+        <developer>
+            <id>muthaman</id>
+            <name>Mamallan Uthaman</name>
+            <organization>Oracle Corp</organization>
+            <email>muthaman@apache.org</email>
+            <roles>
+                <role>committer</role>
+            </roles>
+            <timezone>-8</timezone>
         </developer>
         <developer>
             <id>bsullivan</id>
@@ -470,7 +471,7 @@
             <organization>Oracle Corp</organization>
             <email>blake.sullivan@oracle.com</email>
             <roles>
-              <role>Developer</role>
+                <role>Developer</role>
             </roles>
             <timezone>-8</timezone>
         </developer>
@@ -491,7 +492,7 @@
             <email>rdebusscher@apache.org</email>
             <timezone>+1</timezone>
             <roles>
-              <role>committer</role>
+                <role>committer</role>
             </roles>
         </developer>
         <developer>
@@ -502,19 +503,19 @@
             <email>aliok@apache.org</email>
             <timezone>+2</timezone>
             <roles>
-              <role>committer</role>
+                <role>committer</role>
             </roles>
         </developer>
-		<developer>
+        <developer>
             <id>martinkoci</id>
             <name>Martin Koci</name>
             <email>martinkoci@apache.org</email>
             <timezone>+1</timezone>
             <roles>
-              <role>PMC</role>
+                <role>PMC</role>
             </roles>
-        </developer>		
-	<developer>
+        </developer>
+        <developer>
             <id>andys</id>
             <name>Andy Schwartz</name>
             <organization>Oracle</organization>
@@ -522,16 +523,16 @@
             <email>andys@apache.org</email>
             <timezone>-5</timezone>
             <roles>
-              <role>committer</role>
+                <role>committer</role>
             </roles>
-        </developer>		
+        </developer>
         <developer>
             <id>struberg</id>
             <name>Mark Struberg</name>
             <email>struberg@apache.org</email>
             <roles>
                 <role>PMC</role>
-            </roles>            
+            </roles>
             <timezone>+1</timezone>
         </developer>
         <developer>
@@ -646,34 +647,34 @@
             </roles>
         </contributor>
         <contributor>
-           <name>Peter Mahoney</name>
-           <organization>Digital Brain</organization>
-           <organizationUrl>http://www.digitalbrain.com</organizationUrl>
-           <roles>
-              <role>Schedule</role>
-           </roles>
+            <name>Peter Mahoney</name>
+            <organization>Digital Brain</organization>
+            <organizationUrl>http://www.digitalbrain.com</organizationUrl>
+            <roles>
+                <role>Schedule</role>
+            </roles>
         </contributor>
-        
+
         <!-- Emeritus contributors -->
         <contributor>
             <name>Adam Winer</name>
-            <organization />
+            <organization/>
             <email>awiner@apache.org</email>
             <roles>
-              <role>Developer</role>
-              <role>Emeritus</role>
+                <role>Developer</role>
+                <role>Emeritus</role>
             </roles>
             <timezone>-8</timezone>
         </contributor>
         <contributor>
             <name>Anton Koinov</name>
             <email>koinov@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
             </roles>
-            <timezone />
+            <timezone/>
         </contributor>
         <contributor>
             <name>Arvid Hülsebus</name>
@@ -697,12 +698,12 @@
         <contributor>
             <name>Bill Dudney</name>
             <email>bdudney@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
             </roles>
-            <timezone />
+            <timezone/>
         </contributor>
         <contributor>
             <name>Cristian Toth</name>
@@ -778,8 +779,8 @@
         <contributor>
             <name>Lance Frohman</name>
             <email>lfrohman@apache.org</email>
-            <organization />
-            <organizationUrl />
+            <organization/>
+            <organizationUrl/>
             <roles>
                 <role>Emeritus</role>
             </roles>
@@ -798,7 +799,7 @@
         <contributor>
             <name>Oliver Rossmueller</name>
             <email>oros@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
@@ -808,7 +809,7 @@
         <contributor>
             <name>Paul Spencer</name>
             <email>paulsp@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>Emeritus</role>
             </roles>
@@ -817,7 +818,7 @@
         <contributor>
             <name>Paul McMahan</name>
             <email>pmcmahan@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>Emeritus</role>
             </roles>
@@ -826,7 +827,7 @@
         <contributor>
             <name>Sean Schofield</name>
             <email>schof@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
@@ -846,7 +847,7 @@
         <contributor>
             <name>Simon Kitching</name>
             <email>skitching@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
@@ -856,7 +857,7 @@
         <contributor>
             <name>Sylvain Vieujot</name>
             <email>svieujot@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
@@ -866,7 +867,7 @@
         <contributor>
             <name>Ted Husted</name>
             <email>husted@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>PMC</role>
                 <role>ASF Member</role>
@@ -874,21 +875,21 @@
                 <role>Jakarta PMC</role>
                 <role>MyFaces Emeritus</role>
             </roles>
-            <timezone />
+            <timezone/>
         </contributor>
         <contributor>
             <name>Travis Reeder</name>
             <email>prophecy@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>PMC</role>
             </roles>
-            <timezone />
+            <timezone/>
         </contributor>
         <contributor>
             <name>Wendy Smoak</name>
             <email>wsmoak@apache.org</email>
-            <organization />
+            <organization/>
             <roles>
                 <role>Emeritus</role>
             </roles>
@@ -936,31 +937,31 @@
         <defaultGoal>install</defaultGoal>
 
         <plugins>
-          <plugin>
-            <artifactId>maven-checkstyle-plugin</artifactId>
-            <version>2.17</version>
-            <executions>
-                <execution>
-                    <id>verify-style</id>
-                    <phase>verify</phase>
-                    <goals>
-                        <goal>check</goal>
-                    </goals>
-                </execution>
-            </executions>
-            <configuration>
-                <configLocation>default/myfaces-checks-standard.xml</configLocation>
-                <headerLocation>default/myfaces-header.txt</headerLocation>
-                <consoleOutput>true</consoleOutput>
-            </configuration>
-            <dependencies>
-              <dependency>
-                <groupId>org.apache.myfaces.buildtools</groupId>
-                <artifactId>checkstyle-rules</artifactId>
-                <version>8</version>
-              </dependency>
-            </dependencies>
-          </plugin>
+            <plugin>
+                <artifactId>maven-checkstyle-plugin</artifactId>
+                <version>2.17</version>
+                <executions>
+                    <execution>
+                        <id>verify-style</id>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>check</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <configLocation>default/myfaces-checks-standard.xml</configLocation>
+                    <headerLocation>default/myfaces-header.txt</headerLocation>
+                    <consoleOutput>true</consoleOutput>
+                </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.apache.myfaces.buildtools</groupId>
+                        <artifactId>checkstyle-rules</artifactId>
+                        <version>8</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
         </plugins>
 
         <!-- 
@@ -972,72 +973,72 @@
           - here do take effect by default.
           -->
         <pluginManagement>
-          <plugins>
-              <plugin>
-                  <!--
-                  All artifacts that are JSF 1.1 compatible should be compilable with Java 1.3, so this is the default.
-                  JSF 1.2 or special Java 1.5 related artifacts must override these settings. 
-                  -->
-                  <artifactId>maven-compiler-plugin</artifactId>
-                  <version>2.3.2</version>
-                  <configuration>
-                      <source>1.3</source>
-                      <target>1.3</target>
-                  </configuration>
-              </plugin>
+            <plugins>
+                <plugin>
+                    <!--
+                    All artifacts that are JSF 1.1 compatible should be compilable with Java 1.3, so this is the default.
+                    JSF 1.2 or special Java 1.5 related artifacts must override these settings.
+                    -->
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <version>2.3.2</version>
+                    <configuration>
+                        <source>1.3</source>
+                        <target>1.3</target>
+                    </configuration>
+                </plugin>
 
-              <plugin>
-                <!--
-                Starting with version 2.1, the maven-jar-plugin no longer creates the Specification and 
-                Implementation details in the manifest by default. If you want them you have to say so 
-                explicitly in your plugin configuration.
-                -->
-                <artifactId>maven-jar-plugin</artifactId>
-                <version>2.3.2</version>
-                <configuration>
-                  <archive>
-                    <manifest>
-                      <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-                    </manifest>
-                  </archive>
-                </configuration>
-              </plugin>
+                <plugin>
+                    <!--
+                    Starting with version 2.1, the maven-jar-plugin no longer creates the Specification and
+                    Implementation details in the manifest by default. If you want them you have to say so
+                    explicitly in your plugin configuration.
+                    -->
+                    <artifactId>maven-jar-plugin</artifactId>
+                    <version>2.3.2</version>
+                    <configuration>
+                        <archive>
+                            <manifest>
+                                <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+                            </manifest>
+                        </archive>
+                    </configuration>
+                </plugin>
 
-              <plugin>
-                <artifactId>maven-assembly-plugin</artifactId>
-                <version>2.2.1</version>
-              </plugin>
+                <plugin>
+                    <artifactId>maven-assembly-plugin</artifactId>
+                    <version>2.2.1</version>
+                </plugin>
 
-              <plugin>
-                <artifactId>maven-javadoc-plugin</artifactId>
-                <version>2.8</version>
-              </plugin>
+                <plugin>
+                    <artifactId>maven-javadoc-plugin</artifactId>
+                    <version>2.8</version>
+                </plugin>
 
-              <plugin>
-                <artifactId>maven-resources-plugin</artifactId>
-                <version>2.5</version>
-              </plugin>
+                <plugin>
+                    <artifactId>maven-resources-plugin</artifactId>
+                    <version>2.5</version>
+                </plugin>
 
-              <plugin>
-                <artifactId>maven-source-plugin</artifactId>
-                <version>2.1.2</version>
-              </plugin>
+                <plugin>
+                    <artifactId>maven-source-plugin</artifactId>
+                    <version>2.1.2</version>
+                </plugin>
 
-              <plugin>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <version>2.9</version>
-              </plugin>
+                <plugin>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>2.9</version>
+                </plugin>
 
-              <plugin>
-                <artifactId>maven-surefire-report-plugin</artifactId>
-                <version>2.9</version>
-              </plugin>
+                <plugin>
+                    <artifactId>maven-surefire-report-plugin</artifactId>
+                    <version>2.9</version>
+                </plugin>
 
-              <plugin>
-                <artifactId>maven-checkstyle-plugin</artifactId>
-                <version>2.7</version>
-              </plugin>
-          </plugins>
+                <plugin>
+                    <artifactId>maven-checkstyle-plugin</artifactId>
+                    <version>2.7</version>
+                </plugin>
+            </plugins>
         </pluginManagement>
     </build>
 
@@ -1073,7 +1074,7 @@
                 <artifactId>jdepend-maven-plugin</artifactId>
                 <version>2.0-beta-2</version>
             </plugin>
-      </plugins>
+        </plugins>
     </reporting>
 
     <!-- 
@@ -1082,13 +1083,13 @@
       - listed here then it inherits the settings defined here for that artifact.
       -->
     <dependencyManagement>
-      <dependencies>
-        <dependency>
-          <groupId>commons-logging</groupId>
-          <artifactId>commons-logging</artifactId>
-          <version>1.1.1</version>
-        </dependency>
-      </dependencies>
+        <dependencies>
+            <dependency>
+                <groupId>commons-logging</groupId>
+                <artifactId>commons-logging</artifactId>
+                <version>1.1.1</version>
+            </dependency>
+        </dependencies>
     </dependencyManagement>
-    
+
 </project>
