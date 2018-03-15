@@ -17,8 +17,7 @@
  specific language governing permissions and limitations
  under the License.
 -->
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
     <!--
@@ -36,7 +35,7 @@
     <artifactId>myfaces</artifactId>
     <packaging>pom</packaging>
     <name>Apache MyFaces</name>
-    <version>18-SNAPSHOT</version>
+    <version>18</version>
     <description>
         The MyFaces project is home of the first free open source JavaServer Faces
         implementation as well as some useful JSF component libraries and other
@@ -190,7 +189,7 @@
             <id>mbenson</id>
             <name>Matt Benson</name>
             <email>mbenson@apache.org</email>
-            <organization/>
+            <organization />
             <timezone>-6</timezone>
         </developer>
         <developer>
@@ -275,17 +274,17 @@
             <roles>
                 <role>Portlets Guru</role>
             </roles>
-            <timezone/>
+            <timezone />
         </developer>
         <developer>
             <id>mkienenb</id>
             <name>Mike Kienenberger</name>
             <email>mkienenb@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>PMC</role>
             </roles>
-            <timezone/>
+            <timezone />
         </developer>
         <developer>
             <id>weber</id>
@@ -324,8 +323,8 @@
             <id>cagatay</id>
             <name>Cagatay Civici</name>
             <email>cagatay@apache.org</email>
-            <organization/>
-            <organizationUrl/>
+            <organization />
+            <organizationUrl />
             <roles>
                 <role>PMC</role>
             </roles>
@@ -448,7 +447,7 @@
         <developer>
             <id>cjhoward</id>
             <name>Curtiss Howard</name>
-            <organization/>
+            <organization />
             <email>cjhoward@apache.org</email>
             <roles>
                 <role>committer</role>
@@ -656,7 +655,7 @@
         <!-- Emeritus contributors -->
         <contributor>
             <name>Adam Winer</name>
-            <organization/>
+            <organization />
             <email>awiner@apache.org</email>
             <roles>
                 <role>Developer</role>
@@ -667,12 +666,12 @@
         <contributor>
             <name>Anton Koinov</name>
             <email>koinov@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
             </roles>
-            <timezone/>
+            <timezone />
         </contributor>
         <contributor>
             <name>Arvid Hülsebus</name>
@@ -696,12 +695,12 @@
         <contributor>
             <name>Bill Dudney</name>
             <email>bdudney@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
             </roles>
-            <timezone/>
+            <timezone />
         </contributor>
         <contributor>
             <name>Cristian Toth</name>
@@ -777,8 +776,8 @@
         <contributor>
             <name>Lance Frohman</name>
             <email>lfrohman@apache.org</email>
-            <organization/>
-            <organizationUrl/>
+            <organization />
+            <organizationUrl />
             <roles>
                 <role>Emeritus</role>
             </roles>
@@ -797,7 +796,7 @@
         <contributor>
             <name>Oliver Rossmueller</name>
             <email>oros@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
@@ -807,7 +806,7 @@
         <contributor>
             <name>Paul Spencer</name>
             <email>paulsp@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>Emeritus</role>
             </roles>
@@ -816,7 +815,7 @@
         <contributor>
             <name>Paul McMahan</name>
             <email>pmcmahan@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>Emeritus</role>
             </roles>
@@ -825,7 +824,7 @@
         <contributor>
             <name>Sean Schofield</name>
             <email>schof@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
@@ -845,7 +844,7 @@
         <contributor>
             <name>Simon Kitching</name>
             <email>skitching@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
@@ -855,7 +854,7 @@
         <contributor>
             <name>Sylvain Vieujot</name>
             <email>svieujot@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>PMC</role>
                 <role>Emeritus</role>
@@ -865,7 +864,7 @@
         <contributor>
             <name>Ted Husted</name>
             <email>husted@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>PMC</role>
                 <role>ASF Member</role>
@@ -873,21 +872,21 @@
                 <role>Jakarta PMC</role>
                 <role>MyFaces Emeritus</role>
             </roles>
-            <timezone/>
+            <timezone />
         </contributor>
         <contributor>
             <name>Travis Reeder</name>
             <email>prophecy@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>PMC</role>
             </roles>
-            <timezone/>
+            <timezone />
         </contributor>
         <contributor>
             <name>Wendy Smoak</name>
             <email>wsmoak@apache.org</email>
-            <organization/>
+            <organization />
             <roles>
                 <role>Emeritus</role>
             </roles>
@@ -926,9 +925,9 @@
     </contributors>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</developerConnection>
-        <url>http://svn.apache.org/viewcvs.cgi/myfaces/myfaces-master-pom/trunk</url>
+        <connection>scm:svn:http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/tags/myfaces-18</connection>
+        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/tags/myfaces-18</developerConnection>
+        <url>http://svn.apache.org/viewcvs.cgi/myfaces/myfaces-master-pom/tags/myfaces-18</url>
     </scm>
 
     <build>
