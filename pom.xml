@@ -925,9 +925,9 @@
     </contributors>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/myfaces/myfaces-master-pom/trunk</developerConnection>
-        <url>http://svn.apache.org/viewcvs.cgi/myfaces/myfaces-master-pom/trunk</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/myfaces-master-pom.git</connection>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/myfaces-master-pom.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=myfaces-master-pom.git</url>
     </scm>
 
     <build>
