@@ -28,7 +28,7 @@
     <parent>
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
-        <version>19</version>
+        <version>21</version>
     </parent>
 
     <groupId>org.apache.myfaces</groupId>
@@ -602,7 +602,7 @@
             <name>Eduardo Breijo</name>
             <email>embreijo@apache.org</email>
             <roles>
-                <role>committer</role>
+                <role>PMC</role>
             </roles>
         </developer>
     </developers>
