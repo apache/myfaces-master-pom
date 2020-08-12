@@ -605,6 +605,14 @@
                 <role>PMC</role>
             </roles>
         </developer>
+        <developer>
+            <id>volosied</id>
+            <name>Volodymyr Siedlecki</name>
+            <email>volosied@apache.org</email>
+            <roles>
+                <role>committer</role>
+            </roles>
+        </developer>
     </developers>
     <contributors>
         <contributor>
