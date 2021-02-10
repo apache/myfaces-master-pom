@@ -1027,7 +1027,7 @@
 
                 <plugin>
                     <artifactId>maven-source-plugin</artifactId>
-                    <version>2.1.2</version>
+                    <version>3.2.1</version>
                 </plugin>
 
                 <plugin>
