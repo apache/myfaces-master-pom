@@ -1012,7 +1012,7 @@
 
                 <plugin>
                     <artifactId>maven-assembly-plugin</artifactId>
-                    <version>2.5.4</version>
+                    <version>3.3.0</version>
                 </plugin>
 
                 <plugin>
@@ -1022,7 +1022,7 @@
 
                 <plugin>
                     <artifactId>maven-resources-plugin</artifactId>
-                    <version>2.5</version>
+                    <version>3.2.0</version>
                 </plugin>
 
                 <plugin>
