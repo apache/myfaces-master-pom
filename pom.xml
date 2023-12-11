@@ -964,7 +964,7 @@
                     <dependency>
                         <groupId>org.apache.myfaces.buildtools</groupId>
                         <artifactId>checkstyle-rules</artifactId>
-                        <version>22</version>
+                        <version>23</version>
                     </dependency>
                 </dependencies>
             </plugin>
