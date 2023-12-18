@@ -1056,7 +1056,7 @@
             </plugin>
             <plugin>
                 <artifactId>maven-pmd-plugin</artifactId>
-                <version>3.20.0</version>
+                <version>3.21.2</version>
                 <configuration>
                     <rulesets>
                         <ruleset>/rulesets/basic.xml</ruleset>
