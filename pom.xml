@@ -1037,7 +1037,7 @@
 
                 <plugin>
                     <artifactId>maven-surefire-report-plugin</artifactId>
-                    <version>3.2.3</version>
+                    <version>3.2.5</version>
                 </plugin>
 
                 <plugin>
